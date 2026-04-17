@@ -1,0 +1,17 @@
+{
+    "INAER": {
+        "password": "inadmin2653",
+        "role": "Админ",
+        "name": "Администратор"
+    },
+    "INmanager": {
+        "password": "mngr1000420",
+        "role": "Менеджер",
+        "name": "Менеджер Продаж"
+    },
+    "INbuyer": {
+        "password": "zak23004",
+        "role": "Закупщик",
+        "name": "Менеджер Закупок"
+    }
+}
